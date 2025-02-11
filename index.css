@@ -1,0 +1,15 @@
+.color-body{
+    height:100vh;
+    background-color: #f8f8f8;
+}
+.rectangle{
+    height:300px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 1px rgba(85,85,85,0.25);
+}
+.img-logo{
+    height:64px;
+    width: 64px;
+    border-radius:50%;
+}
